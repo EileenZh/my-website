@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2176087168",
+    "hash" : "2850374575",
     "id" : "A9C92C3C",
-    "lastKnownWriteTime" : 1509364622,
-    "last_content_update" : 1509364622,
+    "lastKnownWriteTime" : 1509368646,
+    "last_content_update" : 1509368646247,
     "path" : "~/Documents/data science/homework/my website/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {
+        "cursorPosition" : "11,7",
+        "scrollLine" : "0"
     },
     "relative_order" : 3,
     "source_on_save" : false,
